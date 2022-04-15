@@ -1,5 +1,5 @@
 # app-icons
 
-App icons for iOS and Android.
+App icons for unified apps on Data.AI
 
-Icons from App Annie. All app icons copyright their owners.
+Icons from Data.AI (previously App Annie). All app icons copyright their owners.
